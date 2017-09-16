@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "/C/Users/Michele/workspaceGo"
+        }
+    ], 
+    "settings": {
+        "golang": {
+            "PATH": "C:\\Go\\bin", 
+            "GOPATH": "C:\\Go"
+        }, 
+        "go_project": true, 
+        "name": "01_print"
+    }
+}

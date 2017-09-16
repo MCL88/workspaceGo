@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "/C/Users/Michele/workspaceGo"
+        }
+    ], 
+    "settings": {
+        "golang": {
+            "GOPATH": "C:\\Go", 
+            "PATH": "C:\\Go\\bin"
+        }, 
+        "go_project": true, 
+        "name": "01_var_const"
+    }
+}

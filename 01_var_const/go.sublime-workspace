@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Fo",
+				"Foo1"
+			],
+			[
+				"un",
+				"unhex"
+			],
+			[
+				"Pr",
+				"Println"
+			],
+			[
+				"remot",
+				"remote_data"
+			],
+			[
+				"remo",
+				"remote_base_url"
+			],
+			[
+				"remote",
+				"remote_base_url"
+			],
+			[
+				"lib",
+				"lib_mcl_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Michele/workspaceGo/new_tutorial_1/main.go",
+			"settings":
+			{
+				"buffer_size": 599,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/webapp/main.go",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/00_hello/main.go",
+			"settings":
+			{
+				"buffer_size": 165,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/tmp/index.html",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/00_hello/.gitignore",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitingnore",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows",
+				"name": ".gitignore"
+			}
+		},
+		{
+			"file": "main.go",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/oop_go/main.go",
+			"settings":
+			{
+				"buffer_size": 1140,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Michele/workspaceGo/oop_go/polyformism.go",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Michele/AppData/Roaming/Sublime Text 2/Packages/User/golang.sublime-settings",
+		"/C/Users/Michele/workspaceGo/vax/README.md",
+		"/C/Users/Michele/workspaceGo/vax/main.go",
+		"/C/Users/Michele/workspaceGo/go.sublime-project",
+		"/C/Users/Michele/workspaceGo/function/main.go",
+		"/C/Users/Michele/workspaceGo/switch/main.go",
+		"/C/Users/Michele/workspaceGo/webapp/main.go",
+		"/C/Users/Michele/workspaceGo/new_tutorial_1/main.go",
+		"/C/Users/Michele/workspaceGo/for/main.go",
+		"/C/Users/Michele/workspaceGo/if/main.go",
+		"/C/Users/Michele/workspaceGo/fmt/main.go",
+		"/C/Users/Michele/Desktop/ruby/sample.txt",
+		"/C/Users/Michele/Desktop/ruby/record.csv",
+		"/C/Users/Michele/Desktop/ruby/hush.rb",
+		"/C/Users/Michele/Desktop/ruby/array2.rb",
+		"/C/Users/Michele/Desktop/ruby/array1.rb",
+		"/C/Users/Michele/Desktop/ruby/files_4.rb",
+		"/C/Users/Michele/Desktop/ruby/espr.rb",
+		"/C/Users/Michele/Desktop/ruby/read3.rb",
+		"/C/Users/Michele/Desktop/ruby/blocks.rb",
+		"/C/Users/Michele/Desktop/ruby/string.rb",
+		"/C/Users/Michele/Desktop/ruby/read_file.rb",
+		"/C/Users/Michele/Desktop/ruby/module.rb",
+		"/C/Users/Michele/Desktop/ruby/tutorial2.rb",
+		"/C/Users/Michele/Desktop/index.html",
+		"/C/Users/Michele/Desktop/ruby/wikipedia.rb",
+		"/C/Users/Michele/Desktop/python/main.py",
+		"/C/Users/Michele/Desktop/python/lib_mcl_dict.py",
+		"/C/Users/Michele/Desktop/python/fib.py",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/michele2.xml",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/michele.xml",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/dati.txt",
+		"/C/Users/Michele/Desktop/git_rep/web_semantico/libro.xml"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'\\",
+			"	case 'a' <= c && c <= 'f':\n		return c - 'a' + 10\n",
+			"fmt",
+			"inspect",
+			"ontologie",
+			"\n",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Michele/workspaceGo/new_tutorial_1/main.go",
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Michele/workspaceGo/webapp/main.go",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Michele/workspaceGo/00_hello/main.go",
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Michele/workspaceGo/tmp/index.html",
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Michele/workspaceGo/00_hello/.gitignore",
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": ".gitingnore",
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".gitignore",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "main.go",
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Michele/workspaceGo/oop_go/main.go",
+					"settings":
+					{
+						"buffer_size": 1140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Michele/workspaceGo/oop_go/polyformism.go",
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Go/Go.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.golang_build":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Michele/FrontEnd/Frontend.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}

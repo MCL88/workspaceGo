@@ -1,0 +1,4 @@
+#Questo è un esempio di tabella dati da usare in R
+20 10 3
+2 1 5
+1 1 1
